@@ -66,6 +66,9 @@ public class MainActivity extends AppCompatActivity {
                 {
                     Toast.makeText(MainActivity.this, "Login Failed", Toast.LENGTH_SHORT).show();
                 }
+
+                txt_email.setText("");
+                txt_password.setText("");
             }
         });
     }
