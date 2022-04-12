@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_Register">Register</string>
+    <string name="btn_logout">Logout</string>
+</resources>
